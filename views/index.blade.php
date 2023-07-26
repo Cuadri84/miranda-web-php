@@ -1,4 +1,5 @@
-
+@extends('layout')
+@section('content')
     <section class="main">
       <div class="main__container">
         <h3>THE ULTIMATE LUXURY EXPERIENCE</h3>
@@ -857,3 +858,4 @@
         <p>Idea Raised Funds</p>
       </div>
     </div>
+    @endsection

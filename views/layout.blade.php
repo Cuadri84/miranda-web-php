@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Rooms</title>
+    <title>Miranda Web</title>
     <link
       href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&family=Old+Standard+TT:wght@400;700&family=Roboto:wght@400;700&display=swap"
       rel="stylesheet"
@@ -21,10 +21,10 @@
         <div class="nav-bar">
           <nav class="nav-bar__container">
             <ul class="nav-bar__ul">
-              <li><a href="../pages/about.html">About Us</a></li>
-              <li><a href="../pages/rooms.html">Rooms</a></li>
-              <li><a href="../pages/offers.html">Offers</a></li>
-              <li><a href="../pages/contact.html">Contact</a></li>
+              <li><a href="../about.html">About Us</a></li>
+              <li><a href="../rooms.html">Rooms</a></li>
+              <li><a href="../offers.html">Offers</a></li>
+              <li><a href="../contact.html">Contact</a></li>
             </ul>
           </nav>
           <label for="menu" class="nav-bar__burger-menu">
@@ -33,7 +33,7 @@
             <span id="span3"></span>
           </label>
         </div>
-        <a href="../index.html">
+        <a href="../rooms">
           <div class="logo">
             <div class="logo-h__container">
               <img

@@ -1,5 +1,5 @@
-
-
+@extends('layout')
+@section('content')
     <section class="main">
       <div class="about__container">
         <h3>THE ULTIMATE LUXURY</h3>
@@ -996,3 +996,5 @@
       </div>
       <div class="swiper-pagination"></div>
     </div>
+
+    @endsection

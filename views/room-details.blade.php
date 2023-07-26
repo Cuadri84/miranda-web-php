@@ -1,4 +1,5 @@
-
+@extends('layout')
+@section('content')
 
     <section class="main">
       <div class="about__container">
@@ -8,11 +9,11 @@
         <div class="page-navigation-details">
           <a class="page-navitation__home" href="../index.html"> Home </a>
           <p>|</p>
-          <a class="page-navitation__contact" href="../pages/room-details.html">
+          <a class="page-navitation__contact" href="../room-details.html">
             Room Details
           </a>
           <p>|</p>
-          <a class="page-navitation__home" href="../pages/room-details.html">
+          <a class="page-navitation__home" href="../room-details.html">
             Luxury Double Bed
           </a>
         </div>
@@ -548,3 +549,4 @@
         </div>
       </div>
     </section>
+    @endsection

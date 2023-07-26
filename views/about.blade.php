@@ -1,4 +1,5 @@
-
+@extends('layout')
+@section('content')
     <section class="main">
       <div class="about__container">
         <h3>THE ULTIMATE LUXURY</h3>
@@ -398,3 +399,4 @@
         <img class="swiper-slide" src="../assets/about/about2.jpg" alt="" />
       </div>
     </section>
+    @endsection
