@@ -7,13 +7,13 @@
         <h2>Ultimate Room</h2>
 
         <div class="page-navigation-details">
-          <a class="page-navitation__home" href="../index.html"> Home </a>
+          <a class="page-navitation__home" href="../index.php"> Home </a>
           <p>|</p>
-          <a class="page-navitation__contact" href="../room-details.html">
+          <a class="page-navitation__contact" href="../room-details.php">
             Room Details
           </a>
           <p>|</p>
-          <a class="page-navitation__home" href="../room-details.html">
+          <a class="page-navitation__home" href="../room-details.php">
             Luxury Double Bed
           </a>
         </div>
@@ -492,7 +492,7 @@
                 $345/ <span class="room__price--sm">Night</span>
               </p>
               <button class="boooking__button">
-                <a href="./room-detail.html"><span>Booking Now</span></a>
+                <a href="./room-detail.php"><span>Booking Now</span></a>
               </button>
             </div>
           </div>
@@ -542,7 +542,7 @@
                 $290/ <span class="room__price--sm">Night</span>
               </p>
               <button class="boooking__button">
-                <a href="./room-detail.html"><span>Booking Now</span></a>
+                <a href="./room-detail.php"><span>Booking Now</span></a>
               </button>
             </div>
           </div>

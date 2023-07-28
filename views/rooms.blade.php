@@ -6,9 +6,9 @@
         <h2>Ultimate Room</h2>
 
         <div class="page-navigation">
-          <a class="page-navitation__home" href="../index.html"> Home </a>
+          <a class="page-navitation__home" href="../index.php"> Home </a>
           <p>|</p>
-          <a class="page-navitation__contact" href="./rooms.html"> Rooms </a>
+          <a class="page-navitation__contact" href="./rooms.php"> Rooms </a>
         </div>
       </div>
     </section>

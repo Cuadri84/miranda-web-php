@@ -6,9 +6,9 @@
         <h2>New Details</h2>
 
         <div class="page-navigation">
-          <a class="page-navitation__home" href="../index.html"> Home </a>
+          <a class="page-navitation__home" href="../index.php"> Home </a>
           <p>|</p>
-          <a class="page-navitation__contact" href="./contact-page.html">
+          <a class="page-navitation__contact" href="./contact-page.php">
             Contact
           </a>
         </div>

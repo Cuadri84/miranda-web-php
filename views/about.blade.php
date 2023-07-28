@@ -6,9 +6,9 @@
         <h2>About Us</h2>
 
         <div class="page-navigation">
-          <a class="page-navitation__home" href="../index.html"> Home </a>
+          <a class="page-navitation__home" href="../index.php"> Home </a>
           <p>|</p>
-          <a class="page-navitation__contact" href="./about.html"> About </a>
+          <a class="page-navitation__contact" href="./about.php"> About </a>
         </div>
       </div>
     </section>

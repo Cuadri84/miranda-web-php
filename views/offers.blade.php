@@ -6,9 +6,9 @@
         <h2>Our Offers</h2>
 
         <div class="page-navigation">
-          <a class="page-navitation__home" href="../index.html"> Home </a>
+          <a class="page-navitation__home" href="../index.php"> Home </a>
           <p>|</p>
-          <a class="page-navitation__contact" href="../offers.html">
+          <a class="page-navitation__contact" href="../offers.php">
             Offers
           </a>
         </div>
@@ -18,7 +18,7 @@
     <section class="main--detail">
       <div class="detail__container" id="detail__container">
         <div class="detail__img__container" id="detail__img__container">
-          <a href="../room-details.html"
+          <a href="../room-details.php"
             ><img class="detail__img" src="../assets/rooms/room6.jpg"
           /></a>
         </div>
@@ -32,7 +32,7 @@
           <div class="title-description__container">
             <div>
               <h3>DOUBLE BED</h3>
-              <a href="../room-details.html"
+              <a href="../room-details.php"
                 ><h2>Luxury Double Bed</h2></a
               >
             </div>
@@ -125,7 +125,7 @@
             </div>
           </div>
 
-          <a href="../room-details.html"
+          <a href="../room-details.php"
             ><button class="offer__btn">BOOK NOW</button></a
           >
 
@@ -134,7 +134,7 @@
     <section class="main--detail">
       <div class="detail__container" id="detail__container">
         <div class="detail__img__container" id="detail__img__container">
-          <a href="../room-details.html"
+          <a href="../room-details.php"
             ><img class="detail__img" src="../assets/rooms/room6.jpg"
           /></a>
         </div>
@@ -148,7 +148,7 @@
           <div class="title-description__container">
             <div>
               <h3>DOUBLE BED</h3>
-              <a href="../room-details.html"
+              <a href="../room-details.php"
                 ><h2>Luxury Double Bed</h2></a
               >
             </div>
@@ -241,7 +241,7 @@
             </div>
           </div>
 
-          <a href="../room-details.html"
+          <a href="../room-details.php"
             ><button class="offer__btn">BOOK NOW</button></a
           >
 
@@ -250,7 +250,7 @@
     <section class="main--detail">
       <div class="detail__container" id="detail__container">
         <div class="detail__img__container" id="detail__img__container">
-          <a href="../room-details.html"
+          <a href="../room-details.php"
             ><img class="detail__img" src="../assets/rooms/room6.jpg"
           /></a>
         </div>
@@ -264,7 +264,7 @@
           <div class="title-description__container">
             <div>
               <h3>DOUBLE BED</h3>
-              <a href="../room-details.html"
+              <a href="../room-details.php"
                 ><h2>Luxury Double Bed</h2></a
               >
             </div>
@@ -357,7 +357,7 @@
             </div>
           </div>
 
-          <a href="../room-details.html"
+          <a href="../room-details.php"
             ><button class="offer__btn">BOOK NOW</button></a
           >
 
@@ -366,7 +366,7 @@
     <section class="main--detail">
       <div class="detail__container" id="detail__container">
         <div class="detail__img__container" id="detail__img__container">
-          <a href="../room-details.html"
+          <a href="../room-details.php"
             ><img class="detail__img" src="../assets/rooms/room6.jpg"
           /></a>
         </div>
@@ -380,7 +380,7 @@
           <div class="title-description__container">
             <div>
               <h3>DOUBLE BED</h3>
-              <a href="../room-details.html"
+              <a href="../room-details.php"
                 ><h2>Luxury Double Bed</h2></a
               >
             </div>
@@ -473,7 +473,7 @@
             </div>
           </div>
 
-          <a href="../room-details.html"
+          <a href="../room-details.php"
             ><button class="offer__btn">BOOK NOW</button></a
           >
       </div>
@@ -752,7 +752,7 @@
               $345/ <span class="room__price--sm">Night</span>
             </p>
             <button class="boooking__button">
-              <a href="../room-details.html"><span>Booking Now</span></a>
+              <a href="../room-details.php"><span>Booking Now</span></a>
             </button>
           </div>
         </div>
@@ -802,7 +802,7 @@
               $290/ <span class="room__price--sm">Night</span>
             </p>
             <button class="boooking__button">
-              <a href="../room-details.html"><span>Booking Now</span></a>
+              <a href="../room-details.php"><span>Booking Now</span></a>
             </button>
           </div>
         </div>
@@ -852,7 +852,7 @@
               $290/ <span class="room__price--sm">Night</span>
             </p>
             <button class="boooking__button">
-              <a href="../room-details.html"><span>Booking Now</span></a>
+              <a href="../room-details.php"><span>Booking Now</span></a>
             </button>
           </div>
         </div>

@@ -21,10 +21,10 @@
         <div class="nav-bar">
           <nav class="nav-bar__container">
             <ul class="nav-bar__ul">
-              <li><a href="../about.html">About Us</a></li>
-              <li><a href="../rooms.html">Rooms</a></li>
-              <li><a href="../offers.html">Offers</a></li>
-              <li><a href="../contact.html">Contact</a></li>
+              <li><a href="../about.php">About Us</a></li>
+              <li><a href="../rooms.php">Rooms</a></li>
+              <li><a href="../offers.php">Offers</a></li>
+              <li><a href="../contact.php">Contact</a></li>
             </ul>
           </nav>
           <label for="menu" class="nav-bar__burger-menu">
@@ -33,7 +33,7 @@
             <span id="span3"></span>
           </label>
         </div>
-        <a href="../rooms">
+        <a href="../index.php">
           <div class="logo">
             <div class="logo-h__container">
               <img
