@@ -6,7 +6,7 @@
         <h2>Ultimate Room</h2>
 
         <div class="page-navigation">
-          <a class="page-navitation__home" href="../index.php"> Home </a>
+          <a class="page-navitation__home" href="http://localhost/miranda-web-php/index.php"> Home </a>
           <p>|</p>
           <a class="page-navitation__contact" href="./rooms.php"> Rooms </a>
         </div>
@@ -18,7 +18,7 @@
         <div class="swiper-slide">
           <div class="list-container">
             <img
-              src="../assets/rooms/room1.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room1.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -26,31 +26,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
@@ -72,7 +72,7 @@
           </div>
           <div class="list-container">
             <img
-              src="../assets/rooms/room2.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room2.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -80,31 +80,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
@@ -126,7 +126,7 @@
           </div>
           <div class="list-container">
             <img
-              src="../assets/rooms/room3.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room3.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -134,31 +134,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
@@ -180,7 +180,7 @@
           </div>
           <div class="list-container">
             <img
-              src="../assets/rooms/room4.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room4.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -188,31 +188,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
@@ -234,7 +234,7 @@
           </div>
           <div class="list-container">
             <img
-              src="../assets/rooms/room5.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room5.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -242,31 +242,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
@@ -288,7 +288,7 @@
           </div>
           <div class="list-container">
             <img
-              src="../assets/rooms/room8.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room8.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -296,31 +296,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
@@ -344,7 +344,7 @@
         <div class="swiper-slide">
           <div class="list-container">
             <img
-              src="../assets/rooms/room1.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room1.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -352,31 +352,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
@@ -398,7 +398,7 @@
           </div>
           <div class="list-container">
             <img
-              src="../assets/rooms/room2.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room2.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -406,31 +406,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
@@ -452,7 +452,7 @@
           </div>
           <div class="list-container">
             <img
-              src="../assets/rooms/room3.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room3.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -460,31 +460,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
@@ -506,7 +506,7 @@
           </div>
           <div class="list-container">
             <img
-              src="../assets/rooms/room4.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room4.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -514,31 +514,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
@@ -560,7 +560,7 @@
           </div>
           <div class="list-container">
             <img
-              src="../assets/rooms/room5.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room5.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -568,31 +568,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
@@ -614,7 +614,7 @@
           </div>
           <div class="list-container">
             <img
-              src="../assets/rooms/room8.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room8.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -622,31 +622,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
@@ -670,7 +670,7 @@
         <div class="swiper-slide">
           <div class="list-container">
             <img
-              src="../assets/rooms/room1.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room1.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -678,31 +678,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
@@ -724,7 +724,7 @@
           </div>
           <div class="list-container">
             <img
-              src="../assets/rooms/room2.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room2.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -732,31 +732,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
@@ -778,7 +778,7 @@
           </div>
           <div class="list-container">
             <img
-              src="../assets/rooms/room3.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room3.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -786,31 +786,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
@@ -832,7 +832,7 @@
           </div>
           <div class="list-container">
             <img
-              src="../assets/rooms/room4.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room4.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -840,31 +840,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
@@ -886,7 +886,7 @@
           </div>
           <div class="list-container">
             <img
-              src="../assets/rooms/room5.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room5.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -894,31 +894,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
@@ -940,7 +940,7 @@
           </div>
           <div class="list-container">
             <img
-              src="../assets/rooms/room8.jpg"
+              src="http://localhost/miranda-web-php/assets/rooms/room8.jpg"
               alt="Hotel Room"
               width="510px"
             />
@@ -948,31 +948,31 @@
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="../assets/amenities/bed-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/wifi-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/car-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/snowflake-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/gym-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/smocking-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="../assets/amenities/drinks-black.png"
+                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>

@@ -13,7 +13,7 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"
     />
-    <link rel="stylesheet" type="text/css" href="../styles.css" />
+    <link rel="stylesheet" type="text/css" href="http://localhost/miranda-web-php/styles.css" />
   </head>
   <body>
     <header class="header" id="header">
@@ -21,10 +21,10 @@
         <div class="nav-bar">
           <nav class="nav-bar__container">
             <ul class="nav-bar__ul">
-              <li><a href="../about.php">About Us</a></li>
-              <li><a href="../rooms.php">Rooms</a></li>
-              <li><a href="../offers.php">Offers</a></li>
-              <li><a href="../contact.php">Contact</a></li>
+              <li><a href="http://localhost/miranda-web-php/about.php">About Us</a></li>
+              <li><a href="http://localhost/miranda-web-php/rooms.php">Rooms</a></li>
+              <li><a href="http://localhost/miranda-web-php/offers.php">Offers</a></li>
+              <li><a href="http://localhost/miranda-web-php/contact.php">Contact</a></li>
             </ul>
           </nav>
           <label for="menu" class="nav-bar__burger-menu">
@@ -33,18 +33,18 @@
             <span id="span3"></span>
           </label>
         </div>
-        <a href="../index.php">
+        <a href="http://localhost/miranda-web-php/index.php">
           <div class="logo">
             <div class="logo-h__container">
               <img
                 class="logo-h"
-                src="../assets/header/h.svg"
+                src="http://localhost/miranda-web-php/assets/header/h.svg"
                 alt="Short Logo"
               />
             </div>
             <img
               class="logo__title"
-              src="../assets/header/hotelMiranda.svg"
+              src="http://localhost/miranda-web-php/assets/header/hotelMiranda.svg"
               alt="Full Logo"
             />
           </div>
@@ -54,14 +54,14 @@
         <div class="icon-container">
           <img
             class="icon"
-            src="../assets/header/account.svg"
+            src="http://localhost/miranda-web-php/assets/header/account.svg"
             alt="Profile Icon"
           />
         </div>
         <div class="icon-container">
           <img
             class="icon"
-            src="../assets/header/search.svg"
+            src="http://localhost/miranda-web-php/assets/header/search.svg"
             alt="Search Icon"
           />
         </div>
@@ -80,7 +80,7 @@
               </div>
               <img
                 class="lg-logo"
-                src="../assets/header/hotelMiranda.svg"
+                src="http://localhost/miranda-web-php/assets/header/hotelMiranda.svg"
                 alt="Full Logo"
               />
             </div>
@@ -91,23 +91,23 @@
             </p>
             <div class="social-icons__container">
               <a class="social-icon__item">
-                <img src="../assets/footer/fb.png" alt="Facebook logo" />
+                <img src="http://localhost/miranda-web-php/assets/footer/fb.png" alt="Facebook logo" />
               </a>
               <a class="social-icon__item">
                 <img
                   class="twitter-icon"
-                  src="../assets/footer/tw.png"
+                  src="http://localhost/miranda-web-php/assets/footer/tw.png"
                   alt="Twitter logo"
                 />
               </a>
               <a class="social-icon__item">
-                <img src="../assets/footer/be.png" alt="Bahance logo" />
+                <img src="http://localhost/miranda-web-php/assets/footer/be.png" alt="Bahance logo" />
               </a>
               <a class="social-icon__item">
-                <img src="../assets/footer/in.png" alt="Linkedin logo" />
+                <img src="http://localhost/miranda-web-php/assets/footer/in.png" alt="Linkedin logo" />
               </a>
               <a class="social-icon__item">
-                <img src="../assets/footer/yt.png" alt="Youtube logo" />
+                <img src="http://localhost/miranda-web-php/assets/footer/yt.png" alt="Youtube logo" />
               </a>
             </div>
           </div>
@@ -133,7 +133,7 @@
           <div class="footer__contact-us">
             <h6>Contact Us.</h6>
             <div class="contact-us__container">
-              <img src="../assets/footer/phone.png" alt="Phone logo" />
+              <img src="http://localhost/miranda-web-php/assets/footer/phone.png" alt="Phone logo" />
               <div class="information-container">
                 <p class="information__container__item">Phone Number</p>
                 <a
@@ -144,7 +144,7 @@
               </div>
             </div>
             <div class="contact-us__container">
-              <img src="../assets/footer/mail.png" alt="Mail logo" />
+              <img src="http://localhost/miranda-web-php/assets/footer/mail.png" alt="Mail logo" />
               <div class="information-container">
                 <p class="information__container__item">E-mail</p>
                 <a
@@ -156,7 +156,7 @@
               </div>
             </div>
             <div class="contact-us__container">
-              <img src="../assets/footer/maps.png" alt="Maps logo" />
+              <img src="http://localhost/miranda-web-php/assets/footer/maps.png" alt="Maps logo" />
               <div class="information-container">
                 <p class="information__container__item">Our Address</p>
                 <p class="information__container__item-sm">
@@ -179,5 +179,5 @@
       </footer>
     </body>
     <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
-    <script src="../scripts/scripts.js"></script>
+    <script src="http://localhost/miranda-web-php/scripts/scripts.js"></script>
   </html>

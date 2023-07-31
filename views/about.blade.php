@@ -6,7 +6,7 @@
         <h2>About Us</h2>
 
         <div class="page-navigation">
-          <a class="page-navitation__home" href="../index.php"> Home </a>
+          <a class="page-navitation__home" href="http://localhost/miranda-web-php/index.php"> Home </a>
           <p>|</p>
           <a class="page-navitation__contact" href="./about.php"> About </a>
         </div>
@@ -33,23 +33,23 @@
 
       <div class="welcome__icons">
         <div class="welcome__icons__item">
-          <img src="../assets/about/breakfast.png" />
+          <img src="http://localhost/miranda-web-php/assets/about/breakfast.png" />
           <p>Breakfast</p>
         </div>
         <div class="welcome__icons__item">
-          <img class="plane-icon" src="../assets/about/airport.png" />
+          <img class="plane-icon" src="http://localhost/miranda-web-php/assets/about/airport.png" />
           <p>Airport Pickup</p>
         </div>
         <div class="welcome__icons__item">
-          <img src="../assets/about/maps2.png" />
+          <img src="http://localhost/miranda-web-php/assets/about/maps2.png" />
           <p>City Guide</p>
         </div>
         <div class="welcome__icons__item welcome__icons__item--hidden">
-          <img src="../assets/about/bbq.png" />
+          <img src="http://localhost/miranda-web-php/assets/about/bbq.png" />
           <p>Bbq Party</p>
         </div>
         <div class="welcome__icons__item">
-          <img src="../assets/about/rooml.png" />
+          <img src="http://localhost/miranda-web-php/assets/about/rooml.png" />
           <p>Luxury Room</p>
         </div>
       </div>
@@ -57,7 +57,7 @@
       <div class="restaurant__information">
         <div class="restaurant__img">
           <img
-            src="../assets/about/restaurant.jpg"
+            src="http://localhost/miranda-web-php/assets/about/restaurant.jpg"
             alt="Hotel Miranda Restaurant"
           />
         </div>
@@ -87,12 +87,12 @@
             <div class="card__icons">
               <img
                 class="core__card__icon"
-                src="../assets/index/core/hand.png"
+                src="http://localhost/miranda-web-php/assets/index/core/hand.png"
                 alt="Facilities"
               />
               <img
                 class="core__card__icon--number"
-                src="../assets/index/core/01black.png"
+                src="http://localhost/miranda-web-php/assets/index/core/01black.png"
                 alt="Facility 1"
               />
             </div>
@@ -111,12 +111,12 @@
             <div class="card__icons">
               <img
                 class="core__card__icon"
-                src="../assets/index/core/clock.png"
+                src="http://localhost/miranda-web-php/assets/index/core/clock.png"
                 alt="Facilities"
               />
               <img
                 class="core__card__icon--number"
-                src="../assets/index/core/02black.png"
+                src="http://localhost/miranda-web-php/assets/index/core/02black.png"
                 alt="Facility 1"
               />
             </div>
@@ -135,12 +135,12 @@
             <div class="card__icons">
               <img
                 class="core__card__icon"
-                src="../assets/index/core/maps-core.png"
+                src="http://localhost/miranda-web-php/assets/index/core/maps-core.png"
                 alt="Facilities"
               />
               <img
                 class="core__card__icon--number"
-                src="../assets/index/core/03black.png"
+                src="http://localhost/miranda-web-php/assets/index/core/03black.png"
                 alt="Facility 1"
               />
             </div>
@@ -159,12 +159,12 @@
             <div class="card__icons">
               <img
                 class="core__card__icon"
-                src="../assets/index/core/clock-cancel.png"
+                src="http://localhost/miranda-web-php/assets/index/core/clock-cancel.png"
                 alt="Facilities"
               />
               <img
                 class="core__card__icon--number"
-                src="../assets/index/core/04black.png"
+                src="http://localhost/miranda-web-php/assets/index/core/04black.png"
                 alt="Facility 1"
               />
             </div>
@@ -183,12 +183,12 @@
             <div class="card__icons">
               <img
                 class="core__card__icon"
-                src="../assets/index/core/card.png"
+                src="http://localhost/miranda-web-php/assets/index/core/card.png"
                 alt="Facilities"
               />
               <img
                 class="core__card__icon--number"
-                src="../assets/index/core/05black.png"
+                src="http://localhost/miranda-web-php/assets/index/core/05black.png"
                 alt="Facility 1"
               />
             </div>
@@ -207,12 +207,12 @@
             <div class="card__icons">
               <img
                 class="core__card__icon"
-                src="../assets/index/core/ribbon.png"
+                src="http://localhost/miranda-web-php/assets/index/core/ribbon.png"
                 alt="Facilities"
               />
               <img
                 class="core__card__icon--number"
-                src="../assets/index/core/06black.png"
+                src="http://localhost/miranda-web-php/assets/index/core/06black.png"
                 alt="Facility 1"
               />
             </div>
@@ -232,12 +232,12 @@
           <div class="card__icons">
             <img
               class="core__card__icon"
-              src="../assets/index/core/hand.png"
+              src="http://localhost/miranda-web-php/assets/index/core/hand.png"
               alt="Facilities"
             />
             <img
               class="core__card__icon--number"
-              src="../assets/index/core/01black.png"
+              src="http://localhost/miranda-web-php/assets/index/core/01black.png"
               alt="Facility 1"
             />
           </div>
@@ -253,12 +253,12 @@
           <div class="card__icons">
             <img
               class="core__card__icon"
-              src="../assets/index/core/clock.png"
+              src="http://localhost/miranda-web-php/assets/index/core/clock.png"
               alt="Facilities"
             />
             <img
               class="core__card__icon--number"
-              src="../assets/index/core/02black.png"
+              src="http://localhost/miranda-web-php/assets/index/core/02black.png"
               alt="Facility 1"
             />
           </div>
@@ -274,12 +274,12 @@
           <div class="card__icons">
             <img
               class="core__card__icon"
-              src="../assets/index/core/maps-core.png"
+              src="http://localhost/miranda-web-php/assets/index/core/maps-core.png"
               alt="Facilities"
             />
             <img
               class="core__card__icon--number"
-              src="../assets/index/core/03black.png"
+              src="http://localhost/miranda-web-php/assets/index/core/03black.png"
               alt="Facility 1"
             />
           </div>
@@ -295,12 +295,12 @@
           <div class="card__icons">
             <img
               class="core__card__icon"
-              src="../assets/index/core/clock-cancel.png"
+              src="http://localhost/miranda-web-php/assets/index/core/clock-cancel.png"
               alt="Facilities"
             />
             <img
               class="core__card__icon--number"
-              src="../assets/index/core/04black.png"
+              src="http://localhost/miranda-web-php/assets/index/core/04black.png"
               alt="Facility 1"
             />
           </div>
@@ -316,12 +316,12 @@
           <div class="card__icons">
             <img
               class="core__card__icon"
-              src="../assets/index/core/card.png"
+              src="http://localhost/miranda-web-php/assets/index/core/card.png"
               alt="Facilities"
             />
             <img
               class="core__card__icon--number"
-              src="../assets/index/core/05black.png"
+              src="http://localhost/miranda-web-php/assets/index/core/05black.png"
               alt="Facility 1"
             />
           </div>
@@ -337,12 +337,12 @@
           <div class="card__icons">
             <img
               class="core__card__icon"
-              src="../assets/index/core/ribbon.png"
+              src="http://localhost/miranda-web-php/assets/index/core/ribbon.png"
               alt="Facilities"
             />
             <img
               class="core__card__icon--number"
-              src="../assets/index/core/06black.png"
+              src="http://localhost/miranda-web-php/assets/index/core/06black.png"
               alt="Facility 1"
               style="color: aliceblue"
             />
@@ -363,40 +363,40 @@
       <h2>Some Fun Facts</h2>
       <div class="counter__container__facts">
         <div class="counter__container__item">
-          <img src="../assets/about/happy.png" alt="Happy Users Icon" />
+          <img src="http://localhost/miranda-web-php/assets/about/happy.png" alt="Happy Users Icon" />
           <div class="item-description">
             <p class="item-title">8000</p>
             <p class="item-detail">Happy Users</p>
           </div>
-          <img src="../assets/about/arrow.png" alt="Arrow Right Icon" />
+          <img src="http://localhost/miranda-web-php/assets/about/arrow.png" alt="Arrow Right Icon" />
         </div>
         <div class="counter__container__item">
-          <img src="../assets/about/stars.png" alt="Happy Users Icon" />
+          <img src="http://localhost/miranda-web-php/assets/about/stars.png" alt="Happy Users Icon" />
           <div class="item-description">
             <p class="item-title">10M</p>
             <p class="item-detail">Reviews & Appriciate</p>
           </div>
-          <img src="../assets/about/arrow.png" alt="Arrow Right Icon" />
+          <img src="http://localhost/miranda-web-php/assets/about/arrow.png" alt="Arrow Right Icon" />
         </div>
         <div class="counter__container__item">
-          <img src="../assets/about/world.png" alt="Happy Users Icon" />
+          <img src="http://localhost/miranda-web-php/assets/about/world.png" alt="Happy Users Icon" />
           <div class="item-description">
             <p class="item-title">100</p>
             <p class="item-detail">Country Coverage</p>
           </div>
-          <img src="../assets/about/arrow.png" alt="Arrow Right Icon" />
+          <img src="http://localhost/miranda-web-php/assets/about/arrow.png" alt="Arrow Right Icon" />
         </div>
       </div>
       <div class="swiper">
         <div class="swiper-wrapper">
-          <img class="swiper-slide" src="../assets/about/about1.jpg" alt="" />
-          <img class="swiper-slide" src="../assets/about/about2.jpg" alt="" />
+          <img class="swiper-slide" src="http://localhost/miranda-web-php/assets/about/about1.jpg" alt="" />
+          <img class="swiper-slide" src="http://localhost/miranda-web-php/assets/about/about2.jpg" alt="" />
         </div>
         <div class="swiper-pagination"></div>
       </div>
       <div class="not-swiper">
-        <img class="swiper-slide" src="../assets/about/about1.jpg" alt="" />
-        <img class="swiper-slide" src="../assets/about/about2.jpg" alt="" />
+        <img class="swiper-slide" src="http://localhost/miranda-web-php/assets/about/about1.jpg" alt="" />
+        <img class="swiper-slide" src="http://localhost/miranda-web-php/assets/about/about2.jpg" alt="" />
       </div>
     </section>
     @endsection
