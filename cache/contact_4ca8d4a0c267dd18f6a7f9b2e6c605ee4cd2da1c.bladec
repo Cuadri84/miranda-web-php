@@ -1,5 +1,56 @@
 <?php $_shouldextend[1]=1; ?>
 <?php $this->startSection('content'); ?>
+<?php
+include("database.php");
+
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+ $errors = array();
+
+ if (empty($_POST["full_name"])) {
+ $errors[] = "Full name is required";
+ }
+
+ if (empty($_POST["phone_number"])) {
+ $errors[] = "Phone number is required";
+ } elseif (!preg_match('/^\d{9,}$/', $_POST["phone_number"])) {
+ $errors[] = "Invalid phone number format";
+ }
+
+ if (empty($_POST["email"])) {
+ $errors[] = "Email address is required";
+ } elseif (!filter_var($_POST["email"], FILTER_VALIDATE_EMAIL)) {
+ $errors[] = "Invalid email format";
+ }
+
+ if (empty($_POST["subject"])) {
+ $errors[] = "Subject is required";
+ } elseif (strlen($_POST["subject"]) > 50) {
+ $errors[] = "Subject must be maximum 50 characters";
+ }
+
+ if (empty($_POST["message"])) {
+ $errors[] = "Message is required";
+ }
+
+
+ if (empty($errors)) {
+ $full_name = $_POST["full_name"];
+ $phone_number = $_POST["phone_number"];
+ $email = $_POST["email"];
+ $subject = $_POST["subject"];
+ $message = $_POST["message"];
+
+ $sql = "INSERT INTO contact (date, userName, userEmail, userPhone, messageSubject, messageBody, archived)
+ VALUES (NOW(), '$full_name', '$email', '$phone_number', '$subject', '$message', 0)";
+
+ if ($conn->query($sql) === TRUE){
+ $success_message = "Form submitted and data inserted into the 'miranda' table!";
+ } else {
+ $errors[] = "Error inserting data into the database: " . $conn->error;
+ }
+ }
+}
+?>
  <section class="main">
  <div class="about__container">
  <h3>THE ULTIMATE LUXURY</h3>
@@ -56,7 +107,7 @@
  </div>
  </section>
 
- <form class="form">
+ <form class="form" method="POST">
  <img class="hotel-img" src="http://localhost/miranda-web-php/assets/contact/map-hotel.png" />
  <div class="form__container">
  <div class="form__item">
@@ -69,6 +120,7 @@
  class="form__input"
  type="text"
  placeholder="Your full name"
+ name="full_name"
  required
  />
  </div>
@@ -82,6 +134,7 @@
  class="form__input"
  type="number"
  placeholder="Add phone number"
+ name="phone_number"
  required
  />
  </div>
@@ -97,6 +150,7 @@
  class="form__input"
  type="email"
  placeholder="Enter email address"
+ name="email"
  required
  />
  </div>
@@ -110,6 +164,7 @@
  class="form__input"
  type="text"
  placeholder="Enter subject"
+ name="subject"
  required
  />
  </div>
@@ -127,14 +182,17 @@
  id="message"
  type="text"
  placeholder="Enter message"
+ name="message"
  required
  />
  </div>
  </div>
  </div>
  <div class="button-div">
- <button class="form__button" type="button">SEND</button>
+ <button class="form__button" type="submit">SEND</button>
  </div>
  </form>
- <?php $this->stopSection(); ?>
+
+
+<?php $this->stopSection(); ?>
 <?php if (isset($_shouldextend[1])) { echo $this->runChild('layout'); } ?>
