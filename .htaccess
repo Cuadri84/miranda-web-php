@@ -1,0 +1,26 @@
+RewriteEngine On
+RewriteBase /
+
+# Redirigir /about a about.php
+
+RewriteRule ^about$ about.php [L]
+
+# Redirigir /contact a contact.php
+
+RewriteRule ^contact$ contact.php [L]
+
+# Redirigir /index a index.php
+
+RewriteRule ^index$ index.php [L]
+
+# Redirigir /rooms a rooms.php
+
+RewriteRule ^rooms$ rooms.php [L]
+
+# Redirigir /offers a offers.php
+
+RewriteRule ^offers$ offers.php [L]
+
+# Redirigir /room-details a room-details.php
+
+RewriteRule ^room-details$ room-details.php [L]
