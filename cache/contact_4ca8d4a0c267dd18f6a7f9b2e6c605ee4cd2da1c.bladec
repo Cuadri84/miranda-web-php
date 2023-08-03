@@ -57,9 +57,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
  <h2>New Details</h2>
 
  <div class="page-navigation">
- <a class="page-navitation__home" href="http://localhost/miranda-web-php/index.php"> Home </a>
+ <a class="page-navitation__home" href="http://localhost/miranda-web-php/index"> Home </a>
  <p>|</p>
- <a class="page-navitation__contact" href="./contact-page.php">
+ <a class="page-navitation__contact" href="./contact">
  Contact
  </a>
  </div>

@@ -13,9 +13,9 @@ $result = $conn->query($sql);
         <h2>Ultimate Room</h2>
 
         <div class="page-navigation">
-          <a class="page-navitation__home" href="http://localhost/miranda-web-php/index.php"> Home </a>
+          <a class="page-navitation__home" href="http://localhost/miranda-web-php/index"> Home </a>
           <p>|</p>
-          <a class="page-navitation__contact" href="./rooms.php"> Rooms </a>
+          <a class="page-navitation__contact" href="./rooms"> Rooms </a>
         </div>
       </div>
     </section>

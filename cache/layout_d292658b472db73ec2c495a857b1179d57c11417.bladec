@@ -21,10 +21,10 @@
  <div class="nav-bar">
  <nav class="nav-bar__container">
  <ul class="nav-bar__ul">
- <li><a href="http://localhost/miranda-web-php/about.php">About Us</a></li>
- <li><a href="http://localhost/miranda-web-php/rooms.php">Rooms</a></li>
- <li><a href="http://localhost/miranda-web-php/offers.php">Offers</a></li>
- <li><a href="http://localhost/miranda-web-php/contact.php">Contact</a></li>
+ <li><a href="http://localhost/miranda-web-php/about">About Us</a></li>
+ <li><a href="http://localhost/miranda-web-php/rooms">Rooms</a></li>
+ <li><a href="http://localhost/miranda-web-php/offers">Offers</a></li>
+ <li><a href="http://localhost/miranda-web-php/contact">Contact</a></li>
  </ul>
  </nav>
  <label for="menu" class="nav-bar__burger-menu">
@@ -33,7 +33,7 @@
  <span id="span3"></span>
  </label>
  </div>
- <a href="http://localhost/miranda-web-php/index.php">
+ <a href="http://localhost/miranda-web-php/index">
  <div class="logo">
  <div class="logo-h__container">
  <img

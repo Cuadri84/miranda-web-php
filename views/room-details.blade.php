@@ -7,13 +7,13 @@
         <h2>Ultimate Room</h2>
 
         <div class="page-navigation-details">
-          <a class="page-navitation__home" href="http://localhost/miranda-web-php/index.php"> Home </a>
+          <a class="page-navitation__home" href="http://localhost/miranda-web-php/index"> Home </a>
           <p>|</p>
-          <a class="page-navitation__contact" href="http://localhost/miranda-web-php/room-details.php">
+          <a class="page-navitation__contact" href="http://localhost/miranda-web-php/room-details">
             Room Details
           </a>
           <p>|</p>
-          <a class="page-navitation__home" href="http://localhost/miranda-web-php/room-details.php">
+          <a class="page-navitation__home" href="http://localhost/miranda-web-php/room-details">
             Luxury Double Bed
           </a>
         </div>
@@ -492,7 +492,7 @@
                 $345/ <span class="room__price--sm">Night</span>
               </p>
               <button class="boooking__button">
-                <a href="./room-detail.php"><span>Booking Now</span></a>
+                <a href="./room-detail"><span>Booking Now</span></a>
               </button>
             </div>
           </div>
@@ -542,7 +542,7 @@
                 $290/ <span class="room__price--sm">Night</span>
               </p>
               <button class="boooking__button">
-                <a href="./room-detail.php"><span>Booking Now</span></a>
+                <a href="./room-detail"><span>Booking Now</span></a>
               </button>
             </div>
           </div>
