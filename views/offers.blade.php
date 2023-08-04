@@ -6,9 +6,9 @@
         <h2>Our Offers</h2>
 
         <div class="page-navigation">
-          <a class="page-navitation__home" href="http://localhost/miranda-web-php/index"> Home </a>
+          <a class="page-navitation__home" href="/index"> Home </a>
           <p>|</p>
-          <a class="page-navitation__contact" href="http://localhost/miranda-web-php/offers">
+          <a class="page-navitation__contact" href="/offers">
             Offers
           </a>
         </div>
@@ -18,8 +18,8 @@
     <section class="main--detail">
       <div class="detail__container" id="detail__container">
         <div class="detail__img__container" id="detail__img__container">
-          <a href="http://localhost/miranda-web-php/room-details"
-            ><img class="detail__img" src="http://localhost/miranda-web-php/assets/rooms/room6.jpg"
+          <a href="/room-details"
+            ><img class="detail__img" src="/assets/rooms/room6.jpg"
           /></a>
         </div>
 
@@ -32,7 +32,7 @@
           <div class="title-description__container">
             <div>
               <h3>DOUBLE BED</h3>
-              <a href="http://localhost/miranda-web-php/room-details"
+              <a href="/room-details"
                 ><h2>Luxury Double Bed</h2></a
               >
             </div>
@@ -59,65 +59,65 @@
           <div class="facilities__container" id="facilities__container--offers">
             <div class="facilities__grid" id="facilities__grid">
               <li class="facilitites__li">
-                <img src="http://localhost/miranda-web-php/assets/amenities/aircon.png" alt="A/C Facility" />
+                <img src="/assets/amenities/aircon.png" alt="A/C Facility" />
                 <p>Air conditioner</p>
               </li>
               <li class="facilitites__li">
-                <img src="http://localhost/miranda-web-php/assets/amenities/wifi.png" alt="Wifi Facility" />
+                <img src="/assets/amenities/wifi.png" alt="Wifi Facility" />
                 <p>High speed WiFi</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/cutlery.png"
+                  src="/assets/amenities/cutlery.png"
                   alt="Breakfast Facility"
                 />
                 <p>Breakfast</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/kitchen.png"
+                  src="/assets/amenities/kitchen.png"
                   alt="Kitchen Facility"
                 />
                 <p>Kitchen</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/cleaning.png"
+                  src="/assets/amenities/cleaning.png"
                   alt="Cleaning Facility"
                 />
                 <p>Cleaning</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/shower.png"
+                  src="/assets/amenities/shower.png"
                   alt="Shower Facility"
                 />
                 <p>Shower</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/groceries.png"
+                  src="/assets/amenities/groceries.png"
                   alt="Grocery Facility"
                 />
                 <p>Grocery</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/bed.png"
+                  src="/assets/amenities/bed.png"
                   alt="Single bed Facility"
                 />
                 <p>Single bed</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/shop.png"
+                  src="/assets/amenities/shop.png"
                   alt="Shop near Facility"
                 />
                 <p>Shop near</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/towel.png"
+                  src="/assets/amenities/towel.png"
                   alt="Towels Facility"
                 />
                 <p>Towels</p>
@@ -125,7 +125,7 @@
             </div>
           </div>
 
-          <a href="http://localhost/miranda-web-php/room-details"
+          <a href="/room-details"
             ><button class="offer__btn">BOOK NOW</button></a
           >
 
@@ -134,8 +134,8 @@
     <section class="main--detail">
       <div class="detail__container" id="detail__container">
         <div class="detail__img__container" id="detail__img__container">
-          <a href="http://localhost/miranda-web-php/room-details"
-            ><img class="detail__img" src="http://localhost/miranda-web-php/assets/rooms/room6.jpg"
+          <a href="/room-details"
+            ><img class="detail__img" src="/assets/rooms/room6.jpg"
           /></a>
         </div>
 
@@ -148,7 +148,7 @@
           <div class="title-description__container">
             <div>
               <h3>DOUBLE BED</h3>
-              <a href="http://localhost/miranda-web-php/room-details"
+              <a href="/room-details"
                 ><h2>Luxury Double Bed</h2></a
               >
             </div>
@@ -175,65 +175,65 @@
           <div class="facilities__container" id="facilities__container--offers">
             <div class="facilities__grid" id="facilities__grid">
               <li class="facilitites__li">
-                <img src="http://localhost/miranda-web-php/assets/amenities/aircon.png" alt="A/C Facility" />
+                <img src="/assets/amenities/aircon.png" alt="A/C Facility" />
                 <p>Air conditioner</p>
               </li>
               <li class="facilitites__li">
-                <img src="http://localhost/miranda-web-php/assets/amenities/wifi.png" alt="Wifi Facility" />
+                <img src="/assets/amenities/wifi.png" alt="Wifi Facility" />
                 <p>High speed WiFi</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/cutlery.png"
+                  src="/assets/amenities/cutlery.png"
                   alt="Breakfast Facility"
                 />
                 <p>Breakfast</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/kitchen.png"
+                  src="/assets/amenities/kitchen.png"
                   alt="Kitchen Facility"
                 />
                 <p>Kitchen</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/cleaning.png"
+                  src="/assets/amenities/cleaning.png"
                   alt="Cleaning Facility"
                 />
                 <p>Cleaning</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/shower.png"
+                  src="/assets/amenities/shower.png"
                   alt="Shower Facility"
                 />
                 <p>Shower</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/groceries.png"
+                  src="/assets/amenities/groceries.png"
                   alt="Grocery Facility"
                 />
                 <p>Grocery</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/bed.png"
+                  src="/assets/amenities/bed.png"
                   alt="Single bed Facility"
                 />
                 <p>Single bed</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/shop.png"
+                  src="/assets/amenities/shop.png"
                   alt="Shop near Facility"
                 />
                 <p>Shop near</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/towel.png"
+                  src="/assets/amenities/towel.png"
                   alt="Towels Facility"
                 />
                 <p>Towels</p>
@@ -241,7 +241,7 @@
             </div>
           </div>
 
-          <a href="http://localhost/miranda-web-php/room-details"
+          <a href="/room-details"
             ><button class="offer__btn">BOOK NOW</button></a
           >
 
@@ -250,8 +250,8 @@
     <section class="main--detail">
       <div class="detail__container" id="detail__container">
         <div class="detail__img__container" id="detail__img__container">
-          <a href="http://localhost/miranda-web-php/room-details"
-            ><img class="detail__img" src="http://localhost/miranda-web-php/assets/rooms/room6.jpg"
+          <a href="/room-details"
+            ><img class="detail__img" src="/assets/rooms/room6.jpg"
           /></a>
         </div>
 
@@ -264,7 +264,7 @@
           <div class="title-description__container">
             <div>
               <h3>DOUBLE BED</h3>
-              <a href="http://localhost/miranda-web-php/room-details"
+              <a href="/room-details"
                 ><h2>Luxury Double Bed</h2></a
               >
             </div>
@@ -291,65 +291,65 @@
           <div class="facilities__container" id="facilities__container--offers">
             <div class="facilities__grid" id="facilities__grid">
               <li class="facilitites__li">
-                <img src="http://localhost/miranda-web-php/assets/amenities/aircon.png" alt="A/C Facility" />
+                <img src="/assets/amenities/aircon.png" alt="A/C Facility" />
                 <p>Air conditioner</p>
               </li>
               <li class="facilitites__li">
-                <img src="http://localhost/miranda-web-php/assets/amenities/wifi.png" alt="Wifi Facility" />
+                <img src="/assets/amenities/wifi.png" alt="Wifi Facility" />
                 <p>High speed WiFi</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/cutlery.png"
+                  src="/assets/amenities/cutlery.png"
                   alt="Breakfast Facility"
                 />
                 <p>Breakfast</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/kitchen.png"
+                  src="/assets/amenities/kitchen.png"
                   alt="Kitchen Facility"
                 />
                 <p>Kitchen</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/cleaning.png"
+                  src="/assets/amenities/cleaning.png"
                   alt="Cleaning Facility"
                 />
                 <p>Cleaning</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/shower.png"
+                  src="/assets/amenities/shower.png"
                   alt="Shower Facility"
                 />
                 <p>Shower</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/groceries.png"
+                  src="/assets/amenities/groceries.png"
                   alt="Grocery Facility"
                 />
                 <p>Grocery</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/bed.png"
+                  src="/assets/amenities/bed.png"
                   alt="Single bed Facility"
                 />
                 <p>Single bed</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/shop.png"
+                  src="/assets/amenities/shop.png"
                   alt="Shop near Facility"
                 />
                 <p>Shop near</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/towel.png"
+                  src="/assets/amenities/towel.png"
                   alt="Towels Facility"
                 />
                 <p>Towels</p>
@@ -357,7 +357,7 @@
             </div>
           </div>
 
-          <a href="http://localhost/miranda-web-php/room-details"
+          <a href="/room-details"
             ><button class="offer__btn">BOOK NOW</button></a
           >
 
@@ -366,8 +366,8 @@
     <section class="main--detail">
       <div class="detail__container" id="detail__container">
         <div class="detail__img__container" id="detail__img__container">
-          <a href="http://localhost/miranda-web-php/room-details"
-            ><img class="detail__img" src="http://localhost/miranda-web-php/assets/rooms/room6.jpg"
+          <a href="/room-details"
+            ><img class="detail__img" src="/assets/rooms/room6.jpg"
           /></a>
         </div>
 
@@ -380,7 +380,7 @@
           <div class="title-description__container">
             <div>
               <h3>DOUBLE BED</h3>
-              <a href="http://localhost/miranda-web-php/room-details"
+              <a href="/room-details"
                 ><h2>Luxury Double Bed</h2></a
               >
             </div>
@@ -407,65 +407,65 @@
           <div class="facilities__container" id="facilities__container--offers">
             <div class="facilities__grid" id="facilities__grid">
               <li class="facilitites__li">
-                <img src="http://localhost/miranda-web-php/assets/amenities/aircon.png" alt="A/C Facility" />
+                <img src="/assets/amenities/aircon.png" alt="A/C Facility" />
                 <p>Air conditioner</p>
               </li>
               <li class="facilitites__li">
-                <img src="http://localhost/miranda-web-php/assets/amenities/wifi.png" alt="Wifi Facility" />
+                <img src="/assets/amenities/wifi.png" alt="Wifi Facility" />
                 <p>High speed WiFi</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/cutlery.png"
+                  src="/assets/amenities/cutlery.png"
                   alt="Breakfast Facility"
                 />
                 <p>Breakfast</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/kitchen.png"
+                  src="/assets/amenities/kitchen.png"
                   alt="Kitchen Facility"
                 />
                 <p>Kitchen</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/cleaning.png"
+                  src="/assets/amenities/cleaning.png"
                   alt="Cleaning Facility"
                 />
                 <p>Cleaning</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/shower.png"
+                  src="/assets/amenities/shower.png"
                   alt="Shower Facility"
                 />
                 <p>Shower</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/groceries.png"
+                  src="/assets/amenities/groceries.png"
                   alt="Grocery Facility"
                 />
                 <p>Grocery</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/bed.png"
+                  src="/assets/amenities/bed.png"
                   alt="Single bed Facility"
                 />
                 <p>Single bed</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/shop.png"
+                  src="/assets/amenities/shop.png"
                   alt="Shop near Facility"
                 />
                 <p>Shop near</p>
               </li>
               <li class="facilitites__li">
                 <img
-                  src="http://localhost/miranda-web-php/assets/amenities/towel.png"
+                  src="/assets/amenities/towel.png"
                   alt="Towels Facility"
                 />
                 <p>Towels</p>
@@ -473,7 +473,7 @@
             </div>
           </div>
 
-          <a href="http://localhost/miranda-web-php/room-details"
+          <a href="/room-details"
             ><button class="offer__btn">BOOK NOW</button></a
           >
       </div>
@@ -484,31 +484,31 @@
       <h2>Popular Rooms</h2>
       <div class="ameneties-home">
         <img
-          src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
+          src="/assets/amenities/bed-black.png"
           alt="Room facility icon"
         />
         <img
-          src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
+          src="/assets/amenities/wifi-black.png"
           alt="Room facility icon"
         />
         <img
-          src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
+          src="/assets/amenities/car-black.png"
           alt="Room facility icon"
         />
         <img
-          src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
+          src="/assets/amenities/snowflake-black.png"
           alt="Room facility icon"
         />
         <img
-          src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
+          src="/assets/amenities/gym-black.png"
           alt="Room facility icon"
         />
         <img
-          src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
+          src="/assets/amenities/smocking-black.png"
           alt="Room facility icon"
         />
         <img
-          src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
+          src="/assets/amenities/drinks-black.png"
           alt="    Room facility icon"
         />
       </div>
@@ -516,7 +516,7 @@
         <div class="swiper-wrapper">
           <div class="swiper-slide">
             <img
-              src="http://localhost/miranda-web-php/assets/rooms/room1.jpg"
+              src="/assets/rooms/room1.jpg"
               alt="Hotel Room"
               id="room-img"
             />
@@ -536,7 +536,7 @@
           </div>
           <div class="swiper-slide">
             <img
-              src="http://localhost/miranda-web-php/assets/rooms/room2.jpg"
+              src="/assets/rooms/room2.jpg"
               alt="Hotel Room"
               id="room-img"
             />
@@ -556,7 +556,7 @@
           </div>
           <div class="swiper-slide">
             <img
-              src="http://localhost/miranda-web-php/assets/rooms/room3.jpg"
+              src="/assets/rooms/room3.jpg"
               alt="Hotel Room"
               id="room-img"
             />
@@ -576,7 +576,7 @@
           </div>
           <div class="swiper-slide">
             <img
-              src="http://localhost/miranda-web-php/assets/rooms/room4.jpg"
+              src="/assets/rooms/room4.jpg"
               alt="Hotel Room"
               id="room-img"
             />
@@ -596,7 +596,7 @@
           </div>
           <div class="swiper-slide">
             <img
-              src="http://localhost/miranda-web-php/assets/rooms/room5.jpg"
+              src="/assets/rooms/room5.jpg"
               alt="Hotel Room"
               id="room-img"
             />
@@ -616,7 +616,7 @@
           </div>
           <div class="swiper-slide">
             <img
-              src="http://localhost/miranda-web-php/assets/rooms/room6.jpg"
+              src="/assets/rooms/room6.jpg"
               alt="Hotel Room"
               id="room-img"
             />
@@ -636,7 +636,7 @@
           </div>
           <div class="swiper-slide">
             <img
-              src="http://localhost/miranda-web-php/assets/rooms/room7.jpg"
+              src="/assets/rooms/room7.jpg"
               alt="Hotel Room"
               id="room-img"
             />
@@ -656,7 +656,7 @@
           </div>
           <div class="swiper-slide">
             <img
-              src="http://localhost/miranda-web-php/assets/rooms/room8.jpg"
+              src="/assets/rooms/room8.jpg"
               alt="Hotel Room"
               id="room-img"
             />
@@ -676,7 +676,7 @@
           </div>
           <div class="swiper-slide">
             <img
-              src="http://localhost/miranda-web-php/assets/rooms/room9.jpg"
+              src="/assets/rooms/room9.jpg"
               alt="Hotel Room"
               id="room-img"
             />
@@ -710,35 +710,35 @@
       <div class="room-container">
         <div class="room__facilities">
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
+            src="/assets/amenities/bed-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
+            src="/assets/amenities/wifi-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
+            src="/assets/amenities/car-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
+            src="/assets/amenities/snowflake-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
+            src="/assets/amenities/gym-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
+            src="/assets/amenities/smocking-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
+            src="/assets/amenities/drinks-black.png"
             alt="Room facility icon"
           />
         </div>
-        <img src="http://localhost/miranda-web-php/assets/rooms/room4.jpg" alt="Hotel Room" />
+        <img src="/assets/rooms/room4.jpg" alt="Hotel Room" />
         <div class="room__information__container">
           <div>
             <h4>Minimal Duplex Room</h4>
@@ -752,7 +752,7 @@
               $345/ <span class="room__price--sm">Night</span>
             </p>
             <button class="boooking__button">
-              <a href="http://localhost/miranda-web-php/room-details"><span>Booking Now</span></a>
+              <a href="/room-details"><span>Booking Now</span></a>
             </button>
           </div>
         </div>
@@ -760,35 +760,35 @@
       <div class="room-container">
         <div class="room__facilities">
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
+            src="/assets/amenities/bed-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
+            src="/assets/amenities/wifi-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
+            src="/assets/amenities/car-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
+            src="/assets/amenities/snowflake-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
+            src="/assets/amenities/gym-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
+            src="/assets/amenities/smocking-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
+            src="/assets/amenities/drinks-black.png"
             alt="Room facility icon"
           />
         </div>
-        <img src="http://localhost/miranda-web-php/assets/rooms/room6.jpg" alt="Hotel Room" />
+        <img src="/assets/rooms/room6.jpg" alt="Hotel Room" />
         <div class="room__information__container">
           <div>
             <h4>Economy Duplex</h4>
@@ -802,7 +802,7 @@
               $290/ <span class="room__price--sm">Night</span>
             </p>
             <button class="boooking__button">
-              <a href="http://localhost/miranda-web-php/room-details"><span>Booking Now</span></a>
+              <a href="/room-details"><span>Booking Now</span></a>
             </button>
           </div>
         </div>
@@ -810,35 +810,35 @@
       <div class="room-container">
         <div class="room__facilities">
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
+            src="/assets/amenities/bed-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
+            src="/assets/amenities/wifi-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
+            src="/assets/amenities/car-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
+            src="/assets/amenities/snowflake-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
+            src="/assets/amenities/gym-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
+            src="/assets/amenities/smocking-black.png"
             alt="Room facility icon"
           />
           <img
-            src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
+            src="/assets/amenities/drinks-black.png"
             alt="Room facility icon"
           />
         </div>
-        <img src="http://localhost/miranda-web-php/assets/rooms/room1.jpg" alt="Hotel Room" />
+        <img src="/assets/rooms/room1.jpg" alt="Hotel Room" />
         <div class="room__information__container">
           <div>
             <h4>Super Duplex</h4>
@@ -852,7 +852,7 @@
               $290/ <span class="room__price--sm">Night</span>
             </p>
             <button class="boooking__button">
-              <a href="http://localhost/miranda-web-php/room-details"><span>Booking Now</span></a>
+              <a href="/room-details"><span>Booking Now</span></a>
             </button>
           </div>
         </div>

@@ -58,7 +58,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <h2>New Details</h2>
 
         <div class="page-navigation">
-          <a class="page-navitation__home" href="http://localhost/miranda-web-php/index"> Home </a>
+          <a class="page-navitation__home" href="/index"> Home </a>
           <p>|</p>
           <a class="page-navitation__contact" href="./contact">
             Contact
@@ -69,19 +69,19 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     <section class="contact__details">
       <div class="detail__item">
-        <img src="http://localhost/miranda-web-php/assets/footer/mail.png" class="detail__item__icon" />
+        <img src="/assets/footer/mail.png" class="detail__item__icon" />
         <div class="detail__item__info">
           <h3>Hotel Address</h3>
           <h4>19/A, Cirikon City hall Tower New York, NYC</h4>
         </div>
         <img
           class="contact__list__number"
-          src="http://localhost/miranda-web-php/assets/contact/01.png"
+          src="/assets/contact/01.png"
           alt="Contact list number"
         />
       </div>
       <div class="detail__item">
-        <img src="http://localhost/miranda-web-php/assets/footer/phone.png" class="detail__item__icon" />
+        <img src="/assets/footer/phone.png" class="detail__item__icon" />
         <div class="detail__item__info">
           <h3>Phone Number</h3>
           <h4>+ 976 586 7578 644 7</h4>
@@ -89,12 +89,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         </div>
         <img
           class="contact__list__number"
-          src="http://localhost/miranda-web-php/assets/contact/02.png"
+          src="/assets/contact/02.png"
           alt="Contact list number"
         />
       </div>
       <div class="detail__item">
-        <img src="http://localhost/miranda-web-php/assets/footer/maps.png" class="detail__item__icon" />
+        <img src="/assets/footer/maps.png" class="detail__item__icon" />
         <div class="detail__item__info">
           <h3>Email</h3>
           <h4>info@webmail.com</h4>
@@ -102,18 +102,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         </div>
         <img
           class="contact__list__number"
-          src="http://localhost/miranda-web-php/assets/contact/03.png"
+          src="/assets/contact/03.png"
           alt="Contact list number"
         />
       </div>
     </section>
 
     <form class="form" method="POST">
-      <img class="hotel-img" src="http://localhost/miranda-web-php/assets/contact/map-hotel.png" />
+      <img class="hotel-img" src="/assets/contact/map-hotel.png" />
       <div class="form__container">
         <div class="form__item">
           <img
-            src="http://localhost/miranda-web-php/assets/contact/person.png"
+            src="/assets/contact/person.png"
             class="contact__form__img"
             alt="Full Name Icon"
           />
@@ -127,7 +127,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         </div>
         <div class="form__item">
           <img
-            src="http://localhost/miranda-web-php/assets/contact/notebook.png"
+            src="/assets/contact/notebook.png"
             class="contact__form__img"
             alt="Phone Icon"
           />
@@ -143,7 +143,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       <div class="form__container">
         <div class="form__item">
           <img
-            src="http://localhost/miranda-web-php/assets/contact/envelop.png"
+            src="/assets/contact/envelop.png"
             class="contact__form__img"
             alt="Email Icon"
           />
@@ -157,7 +157,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         </div>
         <div class="form__item">
           <img
-            src="http://localhost/miranda-web-php/assets/contact/oldphone.png"
+            src="/assets/contact/oldphone.png"
             class="contact__form__img"
             alt="Subject Icon"
           />
@@ -174,7 +174,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <div class="form__item form__item-full">
           <div class="message-div">
             <img
-              src="http://localhost/miranda-web-php/assets/contact/pen.png"
+              src="/assets/contact/pen.png"
               class="contact__form__img"
               alt="Message Icon"
             />

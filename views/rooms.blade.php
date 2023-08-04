@@ -13,7 +13,7 @@ $result = $conn->query($sql);
         <h2>Ultimate Room</h2>
 
         <div class="page-navigation">
-          <a class="page-navitation__home" href="http://localhost/miranda-web-php/index"> Home </a>
+          <a class="page-navitation__home" href="/index"> Home </a>
           <p>|</p>
           <a class="page-navitation__contact" href="./rooms"> Rooms </a>
         </div>
@@ -34,31 +34,31 @@ $result = $conn->query($sql);
               <div class="amenities-title-container">
                 <div class="list-amanities">
                   <img
-                    src="http://localhost/miranda-web-php/assets/amenities/bed-black.png"
+                    src="/assets/amenities/bed-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="http://localhost/miranda-web-php/assets/amenities/wifi-black.png"
+                    src="/assets/amenities/wifi-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="http://localhost/miranda-web-php/assets/amenities/car-black.png"
+                    src="/assets/amenities/car-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="http://localhost/miranda-web-php/assets/amenities/snowflake-black.png"
+                    src="/assets/amenities/snowflake-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="http://localhost/miranda-web-php/assets/amenities/gym-black.png"
+                    src="/assets/amenities/gym-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="http://localhost/miranda-web-php/assets/amenities/smocking-black.png"
+                    src="/assets/amenities/smocking-black.png"
                     alt="Room facility icon"
                   />
                   <img
-                    src="http://localhost/miranda-web-php/assets/amenities/drinks-black.png"
+                    src="/assets/amenities/drinks-black.png"
                     alt="    Room facility icon"
                   />
                 </div>
