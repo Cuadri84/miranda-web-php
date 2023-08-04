@@ -45,6 +45,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         if ($conn->query($sql) === TRUE){
             $success_message = "Form submitted and data inserted into the 'miranda' table!";
+            echo '<script language="javascript">alert("Contact recieved!");</script>';
         } else {
             $errors[] = "Error inserting data into the database: " . $conn->error;
         }
